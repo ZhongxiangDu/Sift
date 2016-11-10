@@ -1,4 +1,4 @@
-This is C++ implementation of SIFT Algorithm.
+This is an C++ implementation of SIFT Algorithm.
 
 Use "make" command to compile this project.
 
