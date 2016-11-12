@@ -109,7 +109,7 @@ int main(int argc, char* argv[])
         return -1;
     }
 
-    /* Êremove the bad matches */
+    /* remove the bad matches */
     pstMatch->ransacFilter();
 
     iRet = pstMatch->drawResult(argv[3]);
